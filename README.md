@@ -239,5 +239,7 @@ Projeto desenvolvido para a disciplina de Engenharia de Software do curso de Ci�
 
 # 👩‍💻 Desenvolvedoras
 
-- Alianny Rissato da Silva
-- Giovanna Dias de Souza
+# 👩‍💻 Desenvolvedoras
+
+- Alianny Rissato da Silva 
+- Giovanna Dias de Souza — @Eklypsik
