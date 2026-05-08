@@ -1,0 +1,149 @@
+/* FUNDO */
+.stApp {
+    background: radial-gradient(circle at top, #0f172a 0%, #020617 100%);
+}
+
+/* CONTAINER */
+.block-container {
+    max-width: 1100px !important;
+    padding-top: 80px;
+}
+
+/* ESCONDE LABEL */
+label {
+    display: none !important;
+}
+
+/* TITULOS */
+h1, h2, h3 {
+    color: #f8fafc;
+}
+
+/* ================= LOGIN ================= */
+
+/* CENTRALIZA */
+.login-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+
+/* CAIXA */
+.login-box {
+    width: 420px;
+    background: rgba(15, 23, 42, 0.7);
+    padding: 40px;
+    border-radius: 16px;
+    backdrop-filter: blur(14px);
+    box-shadow: 0 0 50px rgba(0,0,0,0.6);
+}
+
+/* TITULO LOGIN */
+.login-title {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    color: #f1f5f9;
+    margin-bottom: 10px;
+}
+
+/* SUBTITULO */
+.login-sub {
+    text-align: center;
+    color: #94a3b8;
+    margin-bottom: 30px;
+}
+
+/* INPUT */
+.stTextInput input {
+    background: rgba(2,6,23,0.6);
+    border: 1px solid #334155;
+    border-radius: 8px;
+    height: 45px;
+    color: white;
+    padding-left: 12px;
+}
+
+/* BOTÃO */
+.stButton button {
+    background: linear-gradient(135deg, #1e293b, #475569);
+    color: white;
+    border-radius: 8px;
+    height: 45px;
+    width: 100%;
+    font-weight: 600;
+    border: none;
+    transition: 0.2s;
+}
+
+.stButton button:hover {
+    transform: scale(1.03);
+    opacity: 0.9;
+}
+
+/* ================= PRODUTOS ================= */
+
+/* CARD */
+.card {
+    background: rgba(15, 23, 42, 0.7);
+    padding: 20px;
+    border-radius: 14px;
+    margin-bottom: 15px;
+    border: 1px solid #1e293b;
+    transition: 0.2s;
+}
+
+.card:hover {
+    transform: translateY(-3px);
+    border: 1px solid #ffffff;
+}
+
+/* TEXTO CARD */
+.card h3 {
+    margin: 0;
+    color: #e2e8f0;
+}
+
+.card p {
+    margin: 5px 0;
+    color: #94a3b8;
+}
+
+/* ================= CARRINHO ================= */
+
+.carrinho {
+    background: rgba(2,6,23,0.6);
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 8px;
+    border: 1px solid #1e293b;
+}
+
+/* IMAGENS */
+img {
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    background: linear-gradient(to right, transparent, #334155, transparent);
+    margin: 25px 0;
+}
+
+[data-testid="stImage"] {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 140px;
+    background: rgba(2,6,23,0.5);
+    border-radius: 10px;
+}
+
+[data-testid="stImage"] img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
