@@ -231,13 +231,17 @@ Programa em funcionamento.mp4
 
 ---
 
+# 👨‍🏫 Orientação/Professor
+
+- Andre Muniz - @agdelira
+
+---
+
 # 🎓 Projeto Acadêmico
 
 Projeto desenvolvido para a disciplina de Engenharia de Software do curso de Ciência da Computação da Universidade Paulista — UNIP.
 
 ---
-
-# 👩‍💻 Desenvolvedoras
 
 # 👩‍💻 Desenvolvedoras
 
