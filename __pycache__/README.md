@@ -84,7 +84,9 @@ farmacia_app/
 │   ├── ibuprofeno.png
 │   ├── logo.png
 │   ├── omeprazol.png
+│   ├── painelfuncionario.png
 │   ├── paracetamol.png
+│   ├── telalogin.png
 │   └── vitamina_c.png
 │
 ├── Programa em funcionamento.mp4
@@ -195,9 +197,23 @@ Programa em funcionamento.mp4
 
 ---
 
-# 📷 Produtos do Sistema
+# 📷 Preview do Sistema
 
-## 💊 Medicamentos cadastrados
+## 🔐 Tela de Login
+
+<img src="images/telalogin.png" width="800">
+
+---
+
+## 🛠️ Painel do Funcionário
+
+<img src="images/painelfuncionario.png" width="800">
+
+---
+
+# 💊 Produtos do Sistema
+
+## Medicamentos cadastrados
 
 <img src="images/amoxicilina.png" width="120">
 <img src="images/antialergico.png" width="120">
